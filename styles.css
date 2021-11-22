@@ -11,7 +11,8 @@
   }
   
   body{
-    background-image: url(christoffer-engstrom-8NuHwPbO62k-unsplash.jpg);
+    background-color: black;
+    background-image: url(images/background.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
